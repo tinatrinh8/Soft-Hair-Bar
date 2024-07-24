@@ -1,2 +1,2 @@
-# Soft-ware-Hair-Bar
+# Soft(ware)-Hair-Bar
 Hairstyling Booking Website
