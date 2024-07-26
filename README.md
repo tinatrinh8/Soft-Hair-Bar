@@ -37,4 +37,4 @@ Showcases various hairstyles with images, descriptions, and "Book this Style" bu
 
 ### Conclusion
 
-Soft Hair Bar provides an efficient booking system that resulted in a functional and appealing platform. View the project [here](https://tinatrinh8.github.io/Soft-Hair-Bar.github.io//Hairstyling-Website/).
+Soft Hair Bar provides an efficient booking system that resulted in a functional and appealing platform. View the project [here](https://tinatrinh8.github.io/Soft-Hair-Bar//Hairstyling-Website/).
